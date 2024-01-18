@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "FL6gur8DYjAyvKbHO+vpIuaUzun5oMH78CyL5qyDdj8=",
+  "Source": "ExamPre4",
+  "BasePath": "_content/ExamPre4",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ExamPre4\\wwwroot",
+      "Source": "ExamPre4",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\ExamPre4\\ExamPre4\\wwwroot\\",
+      "BasePath": "_content/ExamPre4",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\ExamPre4\\ExamPre4\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ExamPre4.styles.css",
+      "SourceId": "ExamPre4",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\ExamPre4\\ExamPre4\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ExamPre4",
+      "RelativePath": "ExamPre4.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\ExamPre4\\ExamPre4\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ExamPre4.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\ExamPre4\\ExamPre4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ExamPre4.bundle.scp.css",
+      "SourceId": "ExamPre4",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\ExamPre4\\ExamPre4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ExamPre4",
+      "RelativePath": "ExamPre4.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\ExamPre4\\ExamPre4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ExamPre4.bundle.scp.css"
+    }
+  ]
+}
